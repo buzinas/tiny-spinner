@@ -9,3 +9,6 @@ Open [the demo](//buzinas.github.io/tiny-spinner) and see how simple and beautif
 
 ## Browser support
 IE10+ and all the modern browsers
+
+## License
+[MIT](LICENSE)
