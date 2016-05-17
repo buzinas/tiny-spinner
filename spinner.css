@@ -5,7 +5,7 @@
   width: 2rem;
   height: 2rem;
   border: 0.25rem solid #ffc000;
-  border-bottom: 0.25rem solid rgba(255,255,255,0);
+  border-bottom: 0.25rem solid rgba(0,0,0,0);
   border-radius: 50%;
   -webkit-animation: spin 1s linear infinite;
           animation: spin 1s linear infinite;
